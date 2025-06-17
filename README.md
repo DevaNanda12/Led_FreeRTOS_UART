@@ -51,7 +51,6 @@ The project uses the STM32 HAL (Hardware Abstraction Layer) library and CMSIS-OS
 This software is provided **AS-IS** under the terms specified in the LICENSE file (if available).
 
 ---
-
 ## Author
-Generated and customized for STM32 FreeRTOS demonstration.
 
+- Deva Nanda S
